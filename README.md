@@ -22,13 +22,13 @@ This repository contains the implementation of a Document Q&A model developed du
 - **Google Cloud AI Platform**
 - **Streamlit**
 
-##Install the required packages:
+## Install the required packages:
 **pip install -r requirements.txt**
 
-##Create a .env file in the project root directory.
+## Create a .env file in the project root directory.
 **Add your GROQ API key and Google API key to the .env file:**
 **GROQ_API_KEY=your_groq_api_key**
 **GOOGLE_API_KEY=your_google_api_key**
 
-##Start the Streamlit application:
+## Start the Streamlit application:
 **streamlit run app.py**
